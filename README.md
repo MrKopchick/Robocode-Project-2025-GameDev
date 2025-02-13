@@ -1,5 +1,6 @@
 # Robocode-Project-2025-GameDev
-financial literacy game
+
+## Chance to reborn
 
 The player controls a character who is used to living recklessly: he spends all his money on unnecessary things, constantly takes out loans, and hopes that his problems will resolve themselves. As a result, he ends up in a financial crisis—burdened with debt, living in terrible conditions, without personal transportation, and with no prospects.
 
